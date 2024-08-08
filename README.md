@@ -1,6 +1,6 @@
 # dracking
 
-This template should help get you started developing with Vue 3 in Vite.
+Frontend for a microservice api that is a clone of [Amazon](https://www.amazon.com/). With the most simple features like user registration, login, product listing, and cart management.
 
 ## Recommended IDE Setup
 
